@@ -1,0 +1,12 @@
+.confirm {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: .066667rem;
+    border-radius: 99999rem;
+    background: #39dacd;
+    font-size: .48rem;
+    color: #fff;
+}

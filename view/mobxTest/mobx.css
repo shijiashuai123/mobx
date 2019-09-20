@@ -1,0 +1,10 @@
+.box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn1 {
+    width: 2.666667rem;
+    height: .666667rem;
+}
