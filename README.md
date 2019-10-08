@@ -1,6 +1,6 @@
 # mobx
 
-> A Vue.js project
+> react mobx react-router es6 webpack
 
 ## Build Setup
 
