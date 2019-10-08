@@ -1,6 +1,6 @@
 # mobx
 
-> react mobx react-router es6 webpack
+> react mobx react-router-dom es6 webpack postcss axios
 
 ## Build Setup
 
